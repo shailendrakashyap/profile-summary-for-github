@@ -18,9 +18,10 @@
 <br>
 
 <img
-    src = 'https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG'
+    src = 'https://user-images.githubusercontent.com/46565698/213866478-f392e9a1-ea5e-4022-bf02-ee3ef2bff0d1.png' alt="My GitHub Profile Stats"
     width = 800
 />
+
 
 </div>
 
