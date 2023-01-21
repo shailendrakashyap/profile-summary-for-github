@@ -26,7 +26,7 @@
 -   Compile the source code
 
     ```shell
-    docker build -t profile-summary-for-github
+    docker build -t profile-summary-for-github .
     ```
     
 <br>
