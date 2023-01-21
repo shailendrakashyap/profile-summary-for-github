@@ -12,7 +12,7 @@ RUN adduser \
 USER ghsum
 WORKDIR /var/github-summary
 
-ENV TOKENS="secrets.SECRETTOKEN"
+ENV TOKENS="${secrets.SECRETTOKEN}"
 ENTRYPOINT ["java", "-Dapi-tokens=${secrets.SECRETTOKEN}", "-jar", "profile-summary-for-github.jar"]
 EXPOSE 7070
 
